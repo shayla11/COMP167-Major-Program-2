@@ -194,7 +194,7 @@ public class Menu extends javax.swing.JFrame {
 
         addPanel.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
-        mowerComboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "LawnTractor", "Commerical", "GasPowered", "PushReeal" }));
+        mowerComboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "LawnTractor", "Commerical", "GasPowered", "PushReel" }));
 
         typeOfMowerLabel.setFont(new java.awt.Font("Lucida Grande", 1, 13)); // NOI18N
         typeOfMowerLabel.setText("Type of Mower");
